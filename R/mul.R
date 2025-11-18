@@ -4,6 +4,6 @@
 #' @param j A numeric value.
 #' @return 두 수를 곱한 값을 리턴
 #' @export
-add <- function(i,j){
+mul <- function(i,j){
   return(i*j)
 }

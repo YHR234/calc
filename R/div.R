@@ -4,6 +4,6 @@
 #' @param j A numeric value.
 #' @return i를 j로 나눈 값을 반환.
 #' @export
-add <- function(i,j){
+div <- function(i,j){
   return(i/j)
 }
