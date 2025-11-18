@@ -1,0 +1,9 @@
+#' @title mul
+#' @description iXj 함수
+#' @param i A numeric value.
+#' @param j A numeric value.
+#' @return 두 수를 곱한 값을 리턴
+#' @export
+add <- function(i,j){
+  return(i*j)
+}
